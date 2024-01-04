@@ -18,3 +18,5 @@ runs:
 branding:
   icon: 'activity'
   color: 'green'
+  uses: PortSwigger/dastardly-github-action@v1.0.0
+            
